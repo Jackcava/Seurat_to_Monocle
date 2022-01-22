@@ -1,0 +1,16 @@
+Package: SeuratToMonocle3
+Type: Package
+Title: Converts a Seurat object in a Cell DataSet object
+Version: 0.1.0
+Author: Leonardo Vincenzi
+Maintainer: <leonardo.vincenzi@studenti.univr.it>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
+Imports: 
+    dplyr, Seurat, patchwork, monocle3
